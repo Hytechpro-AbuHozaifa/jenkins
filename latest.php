@@ -1,3 +1,4 @@
 <?php
-echo 'first line';
+phpinfo();
+echo 1;
 ?>
